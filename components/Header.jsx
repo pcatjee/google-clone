@@ -23,6 +23,7 @@ const Header = () => {
         <Image
           className="cursor-pointer"
           src="https://i.imgur.com/FVp3jWG.png"
+          alt="google's header image"
           height={40}
           width={120}
           onClick={() => router.push("/")}

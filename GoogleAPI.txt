@@ -7,4 +7,4 @@ export const CONTEXT_KEY = "80dbee555ede24886";
 //Context Key -https://cse.google.com/cse/create/new
 
 
-//Pasting here and not uploading this secret key on the github
+//Pasting here and not uploading this secret key on the github.

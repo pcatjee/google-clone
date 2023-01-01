@@ -16,7 +16,7 @@
 /build
 
 #Secret Key to Google API
-.txt
+*.txt
 
 # misc
 .DS_Store
